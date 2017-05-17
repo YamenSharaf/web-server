@@ -1,0 +1,417 @@
+{
+	"status": "ok",
+	"count": 6,
+	"pages": 1,
+	"category": {
+		"id": 7,
+		"slug": "portfolio",
+		"title": "Portfolio",
+		"description": "My projects live here",
+		"parent": 0,
+		"post_count": 6
+	},
+	"posts": [{
+		"id": 75,
+		"type": "post",
+		"slug": "github-popularity-meter",
+		"url": "http:\/\/yamensharaf.tk\/blog\/github-popularity-meter\/",
+		"status": "publish",
+		"title": "Github Popularity Meter",
+		"title_plain": "Github Popularity Meter",
+		"content": "<p>My first app implementing <strong>React<\/strong> js to pull data from Github and display the latest and most popular repositories out there today sorted by language. Styled by Flexbox and fully responsive.<\/p>\n",
+		"excerpt": "<p>My first app implementing React js to pull data from Github and display the latest and most popular repositories out there today sorted by language. Styled by Flexbox and fully responsive.<\/p>\n",
+		"date": "2017-05-14 05:11:45",
+		"modified": "2017-05-14 05:11:45",
+		"categories": [{
+			"id": 7,
+			"slug": "portfolio",
+			"title": "Portfolio",
+			"description": "My projects live here",
+			"parent": 0,
+			"post_count": 6
+		}],
+		"tags": [],
+		"author": {
+			"id": 1,
+			"slug": "yamen",
+			"name": "Yamen",
+			"first_name": "",
+			"last_name": "",
+			"nickname": "Yamen",
+			"url": "",
+			"description": ""
+		},
+		"comments": [],
+		"attachments": [],
+		"comment_count": 0,
+		"comment_status": "open",
+		"thumbnail": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/Capture-150x150.jpg",
+		"custom_fields": {
+			"link": ["https:\/\/yamensharaf.github.io\/github-hub\/"],
+			"sublink": ["https:\/\/github.com\/YamenSharaf\/github-hub"]
+		},
+		"thumbnail_size": "thumbnail",
+		"thumbnail_images": {
+			"full": {
+				"url": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/Capture.jpg",
+				"width": 793,
+				"height": 678
+			},
+			"thumbnail": {
+				"url": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/Capture-150x150.jpg",
+				"width": 150,
+				"height": 150
+			},
+			"medium": {
+				"url": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/Capture-300x256.jpg",
+				"width": 300,
+				"height": 256
+			}
+		}
+	}, {
+		"id": 63,
+		"type": "post",
+		"slug": "instatranslate",
+		"url": "http:\/\/yamensharaf.tk\/blog\/instatranslate\/",
+		"status": "publish",
+		"title": "InstaTranslate",
+		"title_plain": "InstaTranslate",
+		"content": "<p>A web app to instantly translate to and from 10 different languages using the popular Google and Yandex engine. The app is written from the ground up using pure JavaScript and AJAX techniques.<\/p>\n",
+		"excerpt": "<p>A web app to instantly translate to and from 10 different languages using the popular Google and Yandex engine. The app is written from the ground up using pure JavaScript and AJAX techniques.<\/p>\n",
+		"date": "2017-05-08 12:02:08",
+		"modified": "2017-05-08 12:03:07",
+		"categories": [{
+			"id": 7,
+			"slug": "portfolio",
+			"title": "Portfolio",
+			"description": "My projects live here",
+			"parent": 0,
+			"post_count": 6
+		}],
+		"tags": [],
+		"author": {
+			"id": 1,
+			"slug": "yamen",
+			"name": "Yamen",
+			"first_name": "",
+			"last_name": "",
+			"nickname": "Yamen",
+			"url": "",
+			"description": ""
+		},
+		"comments": [],
+		"attachments": [],
+		"comment_count": 0,
+		"comment_status": "open",
+		"thumbnail": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/it-150x150.jpg",
+		"custom_fields": {
+			"button": ["View Repository"],
+			"link": ["https:\/\/yamensharaf.github.io\/instatranslate\/"],
+			"sublink": ["https:\/\/github.com\/YamenSharaf\/instatranslate"]
+		},
+		"thumbnail_size": "thumbnail",
+		"thumbnail_images": {
+			"full": {
+				"url": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/it.jpg",
+				"width": 671,
+				"height": 482
+			},
+			"thumbnail": {
+				"url": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/it-150x150.jpg",
+				"width": 150,
+				"height": 150
+			},
+			"medium": {
+				"url": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/it-300x215.jpg",
+				"width": 300,
+				"height": 215
+			},
+			"medium_large": {
+				"url": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/it.jpg",
+				"width": 671,
+				"height": 482
+			},
+			"large": {
+				"url": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/it.jpg",
+				"width": 671,
+				"height": 482
+			}
+		}
+	}, {
+		"id": 60,
+		"type": "post",
+		"slug": "native-parallax-android",
+		"url": "http:\/\/yamensharaf.tk\/blog\/native-parallax-android\/",
+		"status": "publish",
+		"title": "Native Parallax for Android",
+		"title_plain": "Native Parallax for Android",
+		"content": "<p>An open source library aimed to make websites look much better on Android devices by leveraging Chrome browser features to create a colorful parallax effect as the user scrolls down the page.<\/p>\n",
+		"excerpt": "<p>An open source library aimed to make websites look much better on Android devices by leveraging Chrome browser features to create a colorful parallax effect as the user scrolls down the page.<\/p>\n",
+		"date": "2017-05-08 11:59:50",
+		"modified": "2017-05-08 11:59:50",
+		"categories": [{
+			"id": 7,
+			"slug": "portfolio",
+			"title": "Portfolio",
+			"description": "My projects live here",
+			"parent": 0,
+			"post_count": 6
+		}],
+		"tags": [],
+		"author": {
+			"id": 1,
+			"slug": "yamen",
+			"name": "Yamen",
+			"first_name": "",
+			"last_name": "",
+			"nickname": "Yamen",
+			"url": "",
+			"description": ""
+		},
+		"comments": [],
+		"attachments": [],
+		"comment_count": 0,
+		"comment_status": "open",
+		"thumbnail": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/np-150x150.jpg",
+		"custom_fields": {
+			"button": ["View Repository", "View Repository"],
+			"link": ["https:\/\/yamensharaf.github.io\/native-parallax\/"],
+			"sublink": ["https:\/\/github.com\/YamenSharaf\/native-parallax", "https:\/\/github.com\/YamenSharaf\/native-parallax"]
+		},
+		"thumbnail_size": "thumbnail",
+		"thumbnail_images": {
+			"full": {
+				"url": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/np.jpg",
+				"width": 671,
+				"height": 482
+			},
+			"thumbnail": {
+				"url": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/np-150x150.jpg",
+				"width": 150,
+				"height": 150
+			},
+			"medium": {
+				"url": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/np-300x215.jpg",
+				"width": 300,
+				"height": 215
+			},
+			"medium_large": {
+				"url": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/np.jpg",
+				"width": 671,
+				"height": 482
+			},
+			"large": {
+				"url": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/np.jpg",
+				"width": 671,
+				"height": 482
+			}
+		}
+	}, {
+		"id": 58,
+		"type": "post",
+		"slug": "movie-judge",
+		"url": "http:\/\/yamensharaf.tk\/blog\/movie-judge\/",
+		"status": "publish",
+		"title": "Movie Judge",
+		"title_plain": "Movie Judge",
+		"content": "<p>A web app designed with pure CSS using Flexbox techniques. It helps the user make an instant decision as for the quality of a movie by using REST APIs to view ratings of various popular movie databases.<\/p>\n",
+		"excerpt": "<p>A web app designed with pure CSS using Flexbox techniques. It helps the user make an instant decision as for the quality of a movie by using REST APIs to view ratings of various popular movie databases.<\/p>\n",
+		"date": "2017-05-08 11:57:16",
+		"modified": "2017-05-08 11:57:16",
+		"categories": [{
+			"id": 7,
+			"slug": "portfolio",
+			"title": "Portfolio",
+			"description": "My projects live here",
+			"parent": 0,
+			"post_count": 6
+		}],
+		"tags": [],
+		"author": {
+			"id": 1,
+			"slug": "yamen",
+			"name": "Yamen",
+			"first_name": "",
+			"last_name": "",
+			"nickname": "Yamen",
+			"url": "",
+			"description": ""
+		},
+		"comments": [],
+		"attachments": [],
+		"comment_count": 0,
+		"comment_status": "open",
+		"thumbnail": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/mj-150x150.jpg",
+		"custom_fields": {
+			"button": ["View Repository"],
+			"link": ["https:\/\/yamensharaf.github.io\/movie-judge\/"],
+			"sublink": ["https:\/\/github.com\/YamenSharaf\/movie-judge", "https:\/\/github.com\/YamenSharaf\/movie-judge"]
+		},
+		"thumbnail_size": "thumbnail",
+		"thumbnail_images": {
+			"full": {
+				"url": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/mj.jpg",
+				"width": 671,
+				"height": 482
+			},
+			"thumbnail": {
+				"url": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/mj-150x150.jpg",
+				"width": 150,
+				"height": 150
+			},
+			"medium": {
+				"url": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/mj-300x215.jpg",
+				"width": 300,
+				"height": 215
+			},
+			"medium_large": {
+				"url": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/mj.jpg",
+				"width": 671,
+				"height": 482
+			},
+			"large": {
+				"url": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/mj.jpg",
+				"width": 671,
+				"height": 482
+			}
+		}
+	}, {
+		"id": 56,
+		"type": "post",
+		"slug": "mediocre-designs",
+		"url": "http:\/\/yamensharaf.tk\/blog\/mediocre-designs\/",
+		"status": "publish",
+		"title": "Mediocre Designs",
+		"title_plain": "Mediocre Designs",
+		"content": "<p>My first Bootstrap project built upon a template. Was meant to be a landing page, but since then I&#8217;ve opted to making my own themes from scratch, and it&#8217;s been quite fun.<\/p>\n",
+		"excerpt": "<p>My first Bootstrap project built upon a template. Was meant to be a landing page, but since then I&#8217;ve opted to making my own themes from scratch, and it&#8217;s been quite fun.<\/p>\n",
+		"date": "2017-05-08 11:50:38",
+		"modified": "2017-05-08 11:50:38",
+		"categories": [{
+			"id": 7,
+			"slug": "portfolio",
+			"title": "Portfolio",
+			"description": "My projects live here",
+			"parent": 0,
+			"post_count": 6
+		}],
+		"tags": [],
+		"author": {
+			"id": 1,
+			"slug": "yamen",
+			"name": "Yamen",
+			"first_name": "",
+			"last_name": "",
+			"nickname": "Yamen",
+			"url": "",
+			"description": ""
+		},
+		"comments": [],
+		"attachments": [],
+		"comment_count": 0,
+		"comment_status": "open",
+		"thumbnail": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/md-card-150x150.jpg",
+		"custom_fields": {
+			"button": ["Take a Look"],
+			"link": ["http:\/\/ysharaf.tk\/"],
+			"sublink": ["http:\/\/ysharaf.tk\/", "http:\/\/ysharaf.tk\/"]
+		},
+		"thumbnail_size": "thumbnail",
+		"thumbnail_images": {
+			"full": {
+				"url": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/md-card.jpg",
+				"width": 671,
+				"height": 482
+			},
+			"thumbnail": {
+				"url": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/md-card-150x150.jpg",
+				"width": 150,
+				"height": 150
+			},
+			"medium": {
+				"url": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/md-card-300x215.jpg",
+				"width": 300,
+				"height": 215
+			},
+			"medium_large": {
+				"url": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/md-card.jpg",
+				"width": 671,
+				"height": 482
+			},
+			"large": {
+				"url": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/md-card.jpg",
+				"width": 671,
+				"height": 482
+			}
+		}
+	}, {
+		"id": 52,
+		"type": "post",
+		"slug": "minimal-buzz",
+		"url": "http:\/\/yamensharaf.tk\/blog\/minimal-buzz\/",
+		"status": "publish",
+		"title": "Minimal Buzz",
+		"title_plain": "Minimal Buzz",
+		"content": "<p>A bootstrap template\/ theme I made in my spare time using material design elements, geared towards business users. Fairly minimal and free for anyone to use and modify as they see fit.<\/p>\n",
+		"excerpt": "<p>A bootstrap template\/ theme I made in my spare time using material design elements, geared towards business users. Fairly minimal and free for anyone to use and modify as they see fit.<\/p>\n",
+		"date": "2017-05-08 11:07:07",
+		"modified": "2017-05-08 11:31:49",
+		"categories": [{
+			"id": 7,
+			"slug": "portfolio",
+			"title": "Portfolio",
+			"description": "My projects live here",
+			"parent": 0,
+			"post_count": 6
+		}],
+		"tags": [],
+		"author": {
+			"id": 1,
+			"slug": "yamen",
+			"name": "Yamen",
+			"first_name": "",
+			"last_name": "",
+			"nickname": "Yamen",
+			"url": "",
+			"description": ""
+		},
+		"comments": [],
+		"attachments": [],
+		"comment_count": 0,
+		"comment_status": "open",
+		"thumbnail": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/min-buzz-150x150.jpg",
+		"custom_fields": {
+			"link": ["https:\/\/yamensharaf.github.io\/Minimal-Buzz-minimal-business-theme\/"],
+			"sublink": ["https:\/\/github.com\/YamenSharaf\/Minimal-Buzz-minimal-business-theme\/"],
+			"button": ["View Repository"]
+		},
+		"thumbnail_size": "thumbnail",
+		"thumbnail_images": {
+			"full": {
+				"url": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/min-buzz.jpg",
+				"width": 671,
+				"height": 482
+			},
+			"thumbnail": {
+				"url": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/min-buzz-150x150.jpg",
+				"width": 150,
+				"height": 150
+			},
+			"medium": {
+				"url": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/min-buzz-300x215.jpg",
+				"width": 300,
+				"height": 215
+			},
+			"medium_large": {
+				"url": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/min-buzz.jpg",
+				"width": 671,
+				"height": 482
+			},
+			"large": {
+				"url": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/min-buzz.jpg",
+				"width": 671,
+				"height": 482
+			}
+		}
+	}]
+}

@@ -1,0 +1,320 @@
+{
+	"status": "ok",
+	"count": 3,
+	"count_total": 3,
+	"pages": 1,
+	"posts": [{
+		"id": 26,
+		"type": "post",
+		"slug": "the-awesomeness-of-sass",
+		"url": "http:\/\/yamensharaf.tk\/blog\/the-awesomeness-of-sass\/",
+		"status": "publish",
+		"title": "The Awesome World of Sass",
+		"title_plain": "The Awesome World of Sass",
+		"content": "<p>I remember hearing about Sass for the first time coming across it while doing some modifications to a Bootstrap theme and not quite knowing what the hell is going on with the stylesheet complied out of an SCSS file.<\/p>\n<p>It&#8217;s a terrible and a wonderful feeling stumbling upon something for the first time and feeling like a complete noob. When you go down an exploratory path and slowly but surely understand what is going on here. Going from <i>what?&nbsp;<\/i>to <i>aha! <\/i>to <i>holy shit this is incredible!<\/i><\/p>\n<p>That was how things unfolded learning Sass, because as it stands, Sass makes so much sense that I get the feeling that it speaks to me. Sass makes stylesheets fun and readable. It&#8217;s one of those things that once you know you cannot possible live without.<\/p>\n<p>Every projects I&#8217;ve worked on since then made use of Sass and even working with an existing frameworks or regular stylesheets I can simply write my code and just overwrite whatever it is that existed when necessary. Creating my own mixins helped a lot with that too and helped me get everything under control.<\/p>\n<p>I&#8217;m quite grateful to have found Sass so early in my learning journey. It has removed a lot of the confusion surrounding selectors and made sense of the soup of hexadecimal color values all over my code, not to mention making it a breeze to navigate through shades of the same color to find just the right one.<\/p>\n<p>I am also aware of the SCSS vs SASS syntactic war and while it seems that SCSS syntax is winning this race, I&#8217;ve been leaning more and more towards using SASS syntax instead. I was initially sceptical about using indentation as a syntactic tool because it just looks like black magic, but the code really looks much much cleaner and readable this way.<\/p>\n<p>The way I see it is, both versions get compiled into the same CSS file anyway, so what difference does it make how similar it is to CSS beforehand?&nbsp;<\/p>\n<p>What I&#8217;m trying to say is. Glory be to Sass, and may it always get better, although I can&#8217;t really see how.<\/p>\n",
+		"excerpt": "<p>I remember hearing about Sass for the first time coming across it while doing some modifications to a Bootstrap theme and not quite knowing what the hell is going on with the stylesheet complied out of an SCSS file. It&#8217;s a terrible and a wonderful feeling stumbling upon something for the first time and feeling [&hellip;]<\/p>\n",
+		"date": "2017-05-05 05:57:36",
+		"modified": "2017-05-08 17:38:25",
+		"categories": [{
+			"id": 6,
+			"slug": "webdev",
+			"title": "Web Development",
+			"description": "",
+			"parent": 0,
+			"post_count": 2
+		}],
+		"tags": [{
+			"id": 11,
+			"slug": "css",
+			"title": "css",
+			"description": "",
+			"post_count": 1
+		}, {
+			"id": 8,
+			"slug": "sass",
+			"title": "sass",
+			"description": "",
+			"post_count": 1
+		}, {
+			"id": 13,
+			"slug": "scss",
+			"title": "scss",
+			"description": "",
+			"post_count": 1
+		}, {
+			"id": 12,
+			"slug": "stylesheet",
+			"title": "stylesheet",
+			"description": "",
+			"post_count": 1
+		}, {
+			"id": 10,
+			"slug": "web",
+			"title": "web",
+			"description": "",
+			"post_count": 1
+		}, {
+			"id": 9,
+			"slug": "web-development",
+			"title": "web development",
+			"description": "",
+			"post_count": 1
+		}],
+		"author": {
+			"id": 1,
+			"slug": "yamen",
+			"name": "Yamen",
+			"first_name": "",
+			"last_name": "",
+			"nickname": "Yamen",
+			"url": "",
+			"description": ""
+		},
+		"comments": [],
+		"attachments": [],
+		"comment_count": 0,
+		"comment_status": "open",
+		"thumbnail": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/sass-interpolation-150x150.png",
+		"custom_fields": {},
+		"thumbnail_size": "thumbnail",
+		"thumbnail_images": {
+			"full": {
+				"url": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/sass-interpolation.png",
+				"width": 400,
+				"height": 277
+			},
+			"thumbnail": {
+				"url": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/sass-interpolation-150x150.png",
+				"width": 150,
+				"height": 150
+			},
+			"medium": {
+				"url": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/sass-interpolation-300x208.png",
+				"width": 300,
+				"height": 208
+			},
+			"medium_large": {
+				"url": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/sass-interpolation.png",
+				"width": 400,
+				"height": 277
+			},
+			"large": {
+				"url": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/sass-interpolation.png",
+				"width": 400,
+				"height": 277
+			}
+		}
+	}, {
+		"id": 22,
+		"type": "post",
+		"slug": "the-wordpress-dilemma",
+		"url": "http:\/\/yamensharaf.tk\/blog\/the-wordpress-dilemma\/",
+		"status": "publish",
+		"title": "The WordPress Dilemma",
+		"title_plain": "The WordPress Dilemma",
+		"content": "<p>As someone who&#8217;s an absolute beginner, making decisions about what to pick up and start learning can be tough sometimes. Especially when the more you dig the more options you have and the decision becomes exponentially harder.<\/p>\n<p>Looking into what to learn, even though I&#8217;m leaning more towards front-end development, I thought I had to at least pick up one back-end language to really have a grasp over the major aspects of the web development world.<\/p>\n<p>PHP is the obvious elephant in the room, quite literally so. the more I read about it the more encouraged and discouraged I get. On one hand the language is insanely popular, has an incredible support and community in place and it&#8217;s powering the world&#8217;s biggest and most popular CMS. It&#8217;s crazy how the PHP\/ WordPress due has taken over the web that it seems there&#8217;s no escaping it.<\/p>\n<p>With that in mind and as someone who wants to become a <em>modern <\/em>web developer I set out to explore other options, since judging by what people say around the web PHP is dying even though it doesn&#8217;t seem like it. So naturally I came across Python, Ruby and Node.js. Because I literally know nothing about any of those languages I have to rely on what random strangers say online and judging by what people are saying it seems that JavaScript really is taking over the world and that Node.js is the way to go for someone looking to be a <em>modern<\/em> web developer.<\/p>\n<p>I obviously went with PHP at the end judging with the fact that you&#8217;re reading this on a WordPress blog and the main reason for this has nothing to do with any of the factors I mentioned before. the fact is that I&#8217;m unhappy with my current job, and being the premature person that I am I went ahead and actually looked around for jobs (it&#8217;s early, I know). And judging by the majority of the job postings I found online and especially judging by the fact that I live in Egypt it seems that PHP is the clear winner around here.<\/p>\n<p>It may have also played a factor that the one job interview I actually had the interviewer really seemed to care about WordPress as a platform and I didn&#8217;t really have enough expertise in that area and he didn&#8217;t seem very impressed. Keep in mind that this was an interview for a front-end development position. Needless to say they never called back, and I don&#8217;t blame them.<\/p>\n<p>&nbsp;<\/p>\n<p>So these were the major factors in deciding to start this blog and embark on learning PHP. I&#8217;m not sure why I&#8217;m telling you this, but I thought it would be fun to look back at this someday and have it documented somewhere.<\/p>\n",
+		"excerpt": "<p>As someone who&#8217;s an absolute beginner, making decisions about what to pick up and start learning can be tough sometimes. Especially when the more you dig the more options you have and the decision becomes exponentially harder. Looking into what to learn, even though I&#8217;m leaning more towards front-end development, I thought I had to [&hellip;]<\/p>\n",
+		"date": "2017-05-02 12:16:42",
+		"modified": "2017-05-08 00:29:35",
+		"categories": [{
+			"id": 6,
+			"slug": "webdev",
+			"title": "Web Development",
+			"description": "",
+			"parent": 0,
+			"post_count": 2
+		}],
+		"tags": [],
+		"author": {
+			"id": 1,
+			"slug": "yamen",
+			"name": "Yamen",
+			"first_name": "",
+			"last_name": "",
+			"nickname": "Yamen",
+			"url": "",
+			"description": ""
+		},
+		"comments": [],
+		"attachments": [{
+			"id": 24,
+			"url": "http:\/\/yamensharaf.tk\/blog\/blog\/blog\/blog\/wp-content\/uploads\/2017\/05\/nodejs-vs-php-platform.png",
+			"slug": "nodejs-vs-php-platform",
+			"title": "nodejs-vs-php-platform",
+			"description": "",
+			"caption": "",
+			"parent": 22,
+			"mime_type": "image\/png",
+			"images": {
+				"full": {
+					"url": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/nodejs-vs-php-platform.png",
+					"width": 600,
+					"height": 400
+				},
+				"thumbnail": {
+					"url": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/nodejs-vs-php-platform-150x150.png",
+					"width": 150,
+					"height": 150
+				},
+				"medium": {
+					"url": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/nodejs-vs-php-platform-300x200.png",
+					"width": 300,
+					"height": 200
+				},
+				"medium_large": {
+					"url": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/nodejs-vs-php-platform.png",
+					"width": 600,
+					"height": 400
+				},
+				"large": {
+					"url": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/nodejs-vs-php-platform.png",
+					"width": 600,
+					"height": 400
+				}
+			}
+		}],
+		"comment_count": 0,
+		"comment_status": "open",
+		"thumbnail": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/nodejs-vs-php-platform-150x150.png",
+		"custom_fields": {},
+		"thumbnail_size": "thumbnail",
+		"thumbnail_images": {
+			"full": {
+				"url": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/nodejs-vs-php-platform.png",
+				"width": 600,
+				"height": 400
+			},
+			"thumbnail": {
+				"url": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/nodejs-vs-php-platform-150x150.png",
+				"width": 150,
+				"height": 150
+			},
+			"medium": {
+				"url": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/nodejs-vs-php-platform-300x200.png",
+				"width": 300,
+				"height": 200
+			},
+			"medium_large": {
+				"url": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/nodejs-vs-php-platform.png",
+				"width": 600,
+				"height": 400
+			},
+			"large": {
+				"url": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/nodejs-vs-php-platform.png",
+				"width": 600,
+				"height": 400
+			}
+		}
+	}, {
+		"id": 16,
+		"type": "post",
+		"slug": "why-you-ask",
+		"url": "http:\/\/yamensharaf.tk\/blog\/why-you-ask\/",
+		"status": "publish",
+		"title": "Why, you ask?",
+		"title_plain": "Why, you ask?",
+		"content": "<p>It&#8217;s a very valid question, after all, who am I to have my own blog? I don&#8217;t have any original ideas and I haven&#8217;t created anything of note. I know you don&#8217;t need to be somebody these days to have one of these things and that it seems like every dolt and his fish has a blog, but for me I still think one has to have a certain degree of creativity or originality before you start throwing up your ideas and thoughts all over the place for anyone who&#8217;d listen.<\/p>\n<p>So why, you ask? Well I&#8217;m afraid I don&#8217;t have any solid reasons for me doing this, and I&#8217;m kind of hoping nobody would actually have to go through the agony of reading these bits and pieces of random thoughts.<\/p>\n<p>Let me introduce myself first, my name is Yamen and I have a bachelor&#8217;s degree in communication engineering. That&#8217;s all good and well, except I don&#8217;t like it.<\/p>\n<p>What would I rather do instead is make things for the web. It&#8217;s something that I&#8217;ve discovered late on although I&#8217;ve always had a passion for coding and building interfaces. I&#8217;m thinking I should give this whole thing a shot and try to make it work and if it fails, well, there&#8217;s a comedic value in watching people try their hardest only to fail I guess.<\/p>\n<p>Here is where I intend to document my journey. I&#8217;m realizing it&#8217;s a long one and that I have an incredible amount to learn and do, but I like to think I&#8217;m up to it. I have some ideas and I&#8217;ll talk about them here in no particular order or reason.<\/p>\n<p>So, to a long journey&#8230;<\/p>\n",
+		"excerpt": "<p>It&#8217;s a very valid question, after all, who am I to have my own blog? I don&#8217;t have any original ideas and I haven&#8217;t created anything of note. I know you don&#8217;t need to be somebody these days to have one of these things and that it seems like every dolt and his fish has [&hellip;]<\/p>\n",
+		"date": "2017-05-02 06:02:38",
+		"modified": "2017-05-08 00:29:20",
+		"categories": [{
+			"id": 5,
+			"slug": "my-life",
+			"title": "My Life",
+			"description": "",
+			"parent": 0,
+			"post_count": 1
+		}],
+		"tags": [{
+			"id": 3,
+			"slug": "me",
+			"title": "me",
+			"description": "",
+			"post_count": 1
+		}],
+		"author": {
+			"id": 1,
+			"slug": "yamen",
+			"name": "Yamen",
+			"first_name": "",
+			"last_name": "",
+			"nickname": "Yamen",
+			"url": "",
+			"description": ""
+		},
+		"comments": [],
+		"attachments": [{
+			"id": 21,
+			"url": "http:\/\/yamensharaf.tk\/blog\/blog\/blog\/blog\/wp-content\/uploads\/2017\/05\/149370474371253.jpg",
+			"slug": "149370474371253",
+			"title": "149370474371253",
+			"description": "",
+			"caption": "y tho",
+			"parent": 16,
+			"mime_type": "image\/jpeg",
+			"images": {
+				"full": {
+					"url": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/149370474371253.jpg",
+					"width": 480,
+					"height": 270
+				},
+				"thumbnail": {
+					"url": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/149370474371253-150x150.jpg",
+					"width": 150,
+					"height": 150
+				},
+				"medium": {
+					"url": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/149370474371253-300x169.jpg",
+					"width": 300,
+					"height": 169
+				},
+				"medium_large": {
+					"url": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/149370474371253.jpg",
+					"width": 480,
+					"height": 270
+				},
+				"large": {
+					"url": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/149370474371253.jpg",
+					"width": 480,
+					"height": 270
+				}
+			}
+		}],
+		"comment_count": 0,
+		"comment_status": "open",
+		"thumbnail": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/149370474371253-150x150.jpg",
+		"custom_fields": {
+			"geo_latitude": ["31.29635144"],
+			"geo_longitude": ["30.06613418"],
+			"geo_public": ["1"]
+		},
+		"thumbnail_size": "thumbnail",
+		"thumbnail_images": {
+			"full": {
+				"url": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/149370474371253.jpg",
+				"width": 480,
+				"height": 270
+			},
+			"thumbnail": {
+				"url": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/149370474371253-150x150.jpg",
+				"width": 150,
+				"height": 150
+			},
+			"medium": {
+				"url": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/149370474371253-300x169.jpg",
+				"width": 300,
+				"height": 169
+			},
+			"medium_large": {
+				"url": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/149370474371253.jpg",
+				"width": 480,
+				"height": 270
+			},
+			"large": {
+				"url": "http:\/\/yamensharaf.tk\/blog\/wp-content\/uploads\/2017\/05\/149370474371253.jpg",
+				"width": 480,
+				"height": 270
+			}
+		}
+	}]
+}
